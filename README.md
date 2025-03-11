@@ -1,22 +1,34 @@
 ![dcpplus-brand-kit](logo.webp)
 
 # dcpplus-brand-kit
- Official brand kit and assets for DCP+. This repository contains essential branding elements, including logos, typography, color palettes, and usage guidelines.
+Official brand kit and brand assets for DCP+. This repository contains essential branding elements, including logos, typography, color palettes, and usage guidelines. Designed to maintain consistency across all communications and materials.
 
-Repository Relocation Notice
+Contents:
 
-Dear Decentralized Pictures Foundation/A3,
+📌 Logos – Primary, secondary, and icon variations in multiple formats (SVG, PNG, EPS).
+🎨 Color Palette – HEX, RGB, and CMYK values for brand colors.
+🖋 Typography – Approved fonts and usage guidelines.
+📏 Brand Guidelines – PDF and markdown documentation on proper brand representation.
+🖼 Templates – Social media, presentations, and marketing collateral.
 
-As part of our commitment to ensuring you have full control over your brand assets, we kindly ask you to download and relocate this repository by April 12, 2025. After this date, Co.yote will no longer maintain the repository, and the housing of these files within GitHub will be transferred to Decentralized Pictures Foundation/A3.
+Usage:
+
+Please follow the included brand guidelines to ensure correct application of the brand identity. For questions or special requests, contact 
+
+—
+
+Dear Decentralized Pictures Foundation and A3,
+
+To ensure you retain full control over your brand assets, we kindly request that you download and relocate this repository by April 12, 2025. After this date, Co.yote will no longer maintain the repository, and responsibility for housing these files within GitHub will be transferred to Decentralized Pictures Foundation and A3.
 
 ⚠️ Action Required:
 Download the repository:
 Via GitHub: Click the Code button → Download ZIP
 
-Via Git:
-git clone https://github.com/parienzo/dcpplus-brand-kit.git
+Via Git: Git clone https://github.com/parienzo/dcpplus-brand-kit.git
 Relocate the files to your preferred storage solution (e.g., internal servers, cloud storage, or a new GitHub repository under your ownership).
-Confirm the transfer by notifying us at [contact email].
+
+Confirm the transfer by notifying us at pier@coyotecolectivo.com.
 
 🔹 Backup Information:
 
