@@ -26,7 +26,9 @@ Dear Decentralized Pictures Foundation and A3,
 To ensure you retain full control over your brand assets, we kindly request that you download and relocate this repository by April 12, 2025. After this date, Co.yote will no longer maintain the repository, and responsibility for housing these files within GitHub will be transferred to Decentralized Pictures Foundation and A3.
 
 ⚠️ Action Required:
+
 Download the repository:
+
 Via GitHub: Click the Code button → Download ZIP
 
 Via Git: Git clone https://github.com/parienzo/dcpplus-brand-kit.git
