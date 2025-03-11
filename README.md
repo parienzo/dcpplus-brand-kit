@@ -10,14 +10,17 @@ As part of our commitment to ensuring you have full control over your brand asse
 ⚠️ Action Required:
 Download the repository:
 Via GitHub: Click the Code button → Download ZIP
+
 Via Git:
-git clone https://github.com/[repo-url].git
+git clone https://github.com/parienzo/dcpplus-brand-kit.git
 Relocate the files to your preferred storage solution (e.g., internal servers, cloud storage, or a new GitHub repository under your ownership).
 Confirm the transfer by notifying us at [contact email].
+
 🔹 Backup Information:
+
 Co.yote will retain a backup copy of the repository on our Dropbox cloud records for archival purposes. However, after the deadline, active maintenance and access through this repository will no longer be guaranteed.
 
-For any questions or assistance in the migration, feel free to reach out.
+For any questions or assistance in the migration, feel free to reach out to pier@coyotecolectivo.com.
 
 Best,
 Co.yote Team
