@@ -6,9 +6,13 @@ Official brand kit and brand assets for DCP+. This repository contains essential
 Contents:
 
 📌 Logos – Primary, secondary, and icon variations in multiple formats (SVG, PNG, EPS).
+
 🎨 Color Palette – HEX, RGB, and CMYK values for brand colors.
+
 🖋 Typography – Approved fonts and usage guidelines.
+
 📏 Brand Guidelines – PDF and markdown documentation on proper brand representation.
+
 🖼 Templates – Social media, presentations, and marketing collateral.
 
 Usage:
@@ -37,5 +41,6 @@ Co.yote will retain a backup copy of the repository on our Dropbox cloud records
 For any questions or assistance in the migration, feel free to reach out to pier@coyotecolectivo.com.
 
 Best,
+
 Co.yote Team
 
