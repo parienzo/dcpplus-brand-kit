@@ -7,7 +7,7 @@ Contents:
 
 📏 Brand Guidelines – PDF documentation on proper brand representation.
 
-📌 Logos – Primary, secondary, and icon variations in vector and raster formats (.svg, .png).
+📌 Identifiers – Primary, secondary, and icon variations of the brand logos in vector and raster formats (.svg, .png).
 
 🎨 Color Palette – HEX, RGB, and CMYK/PANTONE values for brand colors.
 
