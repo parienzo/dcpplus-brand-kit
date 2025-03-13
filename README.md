@@ -5,27 +5,25 @@ Official brand kit and brand assets for DCP+. This repository contains essential
 
 Contents:
 
-📌 Logos – Primary, secondary, and icon variations in multiple formats (SVG, PNG, EPS).
+📏 Brand Guidelines – PDF documentation on proper brand representation.
 
-🎨 Color Palette – HEX, RGB, and CMYK values for brand colors.
+📌 Logos – Primary, secondary, and icon variations in vector and raster formats (.svg, .png).
 
-🖋 Typography – Approved fonts and usage guidelines.
+🎨 Color Palette – HEX, RGB, and CMYK/PANTONE values for brand colors.
 
-📏 Brand Guidelines – PDF and markdown documentation on proper brand representation.
+🖋 Typography – Brand fonts.
 
-🖼 Templates – Social media, presentations, and marketing collateral.
+🖼 Templates – Social media, corporate templates, and marketing collateral.
 
-Usage:
-
-Please follow the included brand guidelines to ensure correct application of the brand identity. For questions or special requests, contact 
+Please follow the included brand guidelines to ensure correct application of the brand identity. For questions or special requests, contact pier@coyotecolectivo.com
 
 —
 
-Dear Decentralized Pictures Foundation and A3,
-
-To ensure you retain full control over your brand assets, we kindly request that you download and relocate this repository by April 12, 2025. After this date, Co.yote will no longer maintain the repository, and responsibility for housing these files within GitHub will be transferred to Decentralized Pictures Foundation and A3.
-
 ⚠️ Action Required:
+
+Dear Decentralized Pictures Foundation, Inc. / A3,
+
+To ensure you retain full control over your brand assets, we kindly request that you download and relocate this repository by April 13, 2025. After this date, active maintenance and access through this repository will no longer be guaranteed the Co.yote team, and responsibility for housing these files within GitHub will be transferred to Decentralized Pictures Foundationm Inc. and A3.
 
 Download the repository:
 
