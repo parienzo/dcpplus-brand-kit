@@ -5,28 +5,24 @@ Official brand kit and brand assets for DCP+. This repository contains essential
 
 Contents:
 
-📏 Brand Guidelines – PDF documentation on proper brand representation.
+📌 Logos – Primary, secondary, and icon variations in multiple formats (SVG, PNG, EPS).
+🎨 Color Palette – HEX, RGB, and CMYK values for brand colors.
+🖋 Typography – Approved fonts and usage guidelines.
+📏 Brand Guidelines – PDF and markdown documentation on proper brand representation.
+🖼 Templates – Social media, presentations, and marketing collateral.
 
-📌 Identifiers – Primary, secondary, and icon variations of the brand logos in vector and raster formats (.svg, .png).
+Usage:
 
-🎨 Color Palette – HEX, RGB, and CMYK/PANTONE values for brand colors.
-
-🖋 Typography – Brand fonts.
-
-🖼 Templates – Social media, corporate templates, and marketing collateral.
-
-Please follow the included brand guidelines to ensure correct application of the brand identity. For questions or special requests, contact pier@coyotecolectivo.com
+Please follow the included brand guidelines to ensure correct application of the brand identity. For questions or special requests, contact 
 
 —
 
+Dear Decentralized Pictures Foundation and A3,
+
+To ensure you retain full control over your brand assets, we kindly request that you download and relocate this repository by April 12, 2025. After this date, Co.yote will no longer maintain the repository, and responsibility for housing these files within GitHub will be transferred to Decentralized Pictures Foundation and A3.
+
 ⚠️ Action Required:
-
-Dear Decentralized Pictures Foundation, Inc. / A3,
-
-To ensure you retain full control over your brand assets, we kindly request that you download and relocate this repository by April 13, 2025. After this date, active maintenance and access through this repository will no longer be guaranteed the Co.yote team, and responsibility for housing these files within GitHub will be transferred to Decentralized Pictures Foundationm Inc. and A3.
-
 Download the repository:
-
 Via GitHub: Click the Code button → Download ZIP
 
 Via Git: Git clone https://github.com/parienzo/dcpplus-brand-kit.git
@@ -41,6 +37,5 @@ Co.yote will retain a backup copy of the repository on our Dropbox cloud records
 For any questions or assistance in the migration, feel free to reach out to pier@coyotecolectivo.com.
 
 Best,
-
 Co.yote Team
 
